@@ -1,0 +1,2 @@
+# meta-model-contracts
+core
