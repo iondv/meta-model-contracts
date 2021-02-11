@@ -15,6 +15,7 @@ module.exports = {
   SortingModes: require('./lib/SortingModes'),
   InsertPreprocessor: require('./lib/InsertPreprocessor'),
   KeyProvider: require('./lib/KeyProvider'),
+  Preprocessor: require('./lib/Preprocessor'),
   ListPreprocessor: require('./lib/ListPreprocessor'),
   WorkflowProvider: require('./lib/WorkflowProvider')
 };
