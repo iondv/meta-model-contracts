@@ -16,7 +16,7 @@
     "type": "git"
   },
   "homepage": "https://iondv.com",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "dependencies": {
     "fast-clone": "^1.5.13"
   }
