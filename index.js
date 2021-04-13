@@ -4,6 +4,7 @@ module.exports = {
   util: require('./lib/util'),
   CollectionFieldModes: require('./lib/CollectionFieldModes'),
   ConditionTypes: require('./lib/ConditionTypes'),
+  DataRepository: require('./lib/data/DataRepository'),
   DateSizes: require('./lib/DateSizes'),
   DateTypes: require('./lib/DateTypes'),
   FieldModes: require('./lib/FieldModes'),
